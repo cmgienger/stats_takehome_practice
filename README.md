@@ -1,3 +1,1 @@
-# stats_takehome_practice
-# practice_takehome
-# stats_takehome_practice
+BIOL 5000 Practice problems for final.
